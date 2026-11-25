@@ -1,0 +1,21 @@
+USDCHF 5m (derivado de 1m): 373874 velas | 2021-11-22 00:00:00 -> 2026-11-22 23:55:00 (UTC)
+  duplicados: 0 | OHLC incoherentes: 0 | precios <= 0: 0
+  huecos: fin de semana 302 | pequeños (cierre diario, sin ticks) 164 | relevantes 11
+    sin datos desde 2021-12-24 20:50:00 hasta 2021-12-24 21:30:00 (0 days 00:40:00)
+    sin datos desde 2022-05-19 20:55:00 hasta 2022-05-19 22:00:00 (0 days 01:05:00)
+    sin datos desde 2023-01-02 22:10:00 hasta 2023-01-02 22:50:00 (0 days 00:40:00)
+    sin datos desde 2023-12-25 00:50:00 hasta 2023-12-25 22:00:00 (0 days 21:10:00)
+    sin datos desde 2024-12-25 02:05:00 hasta 2024-12-25 02:40:00 (0 days 00:35:00)
+    sin datos desde 2024-12-25 03:10:00 hasta 2024-12-25 03:45:00 (0 days 00:35:00)
+    sin datos desde 2024-12-25 04:10:00 hasta 2024-12-25 05:10:00 (0 days 01:00:00)
+    sin datos desde 2024-12-25 07:55:00 hasta 2024-12-25 22:00:00 (0 days 14:05:00)
+    sin datos desde 2024-12-31 21:55:00 hasta 2025-01-01 22:00:00 (1 days 00:05:00)
+    sin datos desde 2025-12-25 07:55:00 hasta 2025-12-25 22:00:00 (0 days 14:05:00)
+    sin datos desde 2025-12-31 21:55:00 hasta 2026-01-01 22:00:00 (1 days 00:05:00)
+  segmentos continuos: 1
+  -> listos\USDCHF_5m_2021.csv (8287 velas)
+  -> listos\USDCHF_5m_2022.csv (74626 velas)
+  -> listos\USDCHF_5m_2023.csv (74539 velas)
+  -> listos\USDCHF_5m_2024.csv (74924 velas)
+  -> listos\USDCHF_5m_2025.csv (74672 velas)
+  -> listos\USDCHF_5m_2026.csv (66515 velas)
